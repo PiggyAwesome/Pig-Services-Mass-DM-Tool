@@ -1,7 +1,7 @@
 # Pig-Services-Mass-DM-Tool
 A Free Discord Mass DM tool made for Pig Services (pigservices.piggyawesome.com)
 
-
+10 Stars = Update
 https://t.me/pigservices
 
 https://sellix.io/Pig-Services
